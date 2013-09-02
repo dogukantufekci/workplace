@@ -1,0 +1,13 @@
+Django==1.5.2
+bpython==0.12
+django-braces==1.0.0
+django-model-utils==1.4.0
+logutils==0.3.3
+South==0.8.1
+
+django-filter==0.7
+djangorestframework==2.3.6
+PIL==1.1.7
+psycopg2==2.5.1
+pytz==2013b
+requests==1.2.3
